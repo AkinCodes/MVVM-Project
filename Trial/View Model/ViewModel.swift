@@ -7,7 +7,7 @@
 
 import Foundation
 
-// This is the View Model page.  This is where the real work is done.
+// This is the View Model page.  This is where the real work is done. Behind the scenes page.
 // Create a class that has a property and a function to create and fetch data.
 
     class MockService: ObservableObject, Identifiable {
